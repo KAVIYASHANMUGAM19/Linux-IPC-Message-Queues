@@ -1,6 +1,5 @@
 ## NAME : S.KAVIYA
 ## REGSITER NO : 212223040090
-## DEPARTMENT : CSE
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
